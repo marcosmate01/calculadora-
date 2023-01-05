@@ -1,5 +1,5 @@
 # calculadora digital javascript 
-apens utilizando as ferramentas
+apenas utilizando as ferramentas
 -html
 -css
 -JavaScript
